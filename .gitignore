@@ -1,0 +1,13 @@
+dataset/
+
+__pycache__/
+
+checkpoints/
+
+results*/
+
+logs/
+
+*.pkl
+
+.history

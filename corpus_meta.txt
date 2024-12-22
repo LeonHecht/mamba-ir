@@ -1,0 +1,15 @@
+spanish_constitution_eu-ca-es: 34589
+eurlex_es: 140790
+doctrina_fiscalia_es: 4812960
+un_opus_es: 6705807
+abogacia_estado_boe_es: 11242268
+codigos_universitarios_es: 22890142
+codigos_electronicos_es: 23896311
+patentes_medicas: 28784641
+europarl_es: 28784641
+jrc_acquis_es: 28784641
+consultas_tributarias_es: 28784642
+dictamenes_consejo_estado_es: 28784642
+dogc_ca-es: 28784642
+multiun_es: 28784642
+legislacion_boe_es: 28784642

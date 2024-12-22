@@ -1,0 +1,15 @@
+doctrina_fiscalia_es: 4812960
+dictamenes_consejo_estado_es: 245762157
+jrc_acquis_es: 109787641
+legislacion_boe_es: 1128769759
+codigos_universitarios_es: 22890142
+codigos_electronicos_es: 23896311
+un_opus_es: 6705807
+consultas_tributarias_es: 139173424
+patentes_medicas: 29574697
+dogc_ca-es: 253103213
+eurlex_es: 140790
+spanish_constitution_eu-ca-es: 34589
+abogacia_estado_boe_es: 11242268
+multiun_es: 644140252
+europarl_es: 97908059
